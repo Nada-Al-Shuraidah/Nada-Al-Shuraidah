@@ -38,7 +38,7 @@ I am committed to continuous learning, hands-on experimentation, and bridging my
 
 ![Top Languages](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Nada-Al-Shuraidah&layout=compact&theme=dark)
 
-## 📫 Contact
+## 💬 Ask me about anything, I am happy to help
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nada-al-shuridah)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/NadaZ1717)
 
