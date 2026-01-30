@@ -4,7 +4,7 @@
       I’m a software developer transitioning toward data and artificial intelligence.<br>
       My background includes building full-stack applications, but my current focus is on data-driven systems, machine learning fundamentals, and AI-oriented problem solving.<br>
       I’m actively developing my skills through hands-on learning and practical experimentation.
-<p float="Right">
+<p float="Right" vertical-align: top>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="200" height="200"/>
 </p>
 ---
