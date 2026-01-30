@@ -30,11 +30,8 @@ I’m actively developing my skills through hands-on learning and practical expe
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nada-Al-Shuraidah&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nada-Al-Shuraidah&layout=compact&theme=dark)
-
-![GitHub followers](https://img.shields.io/github/followers/Nada-Al-Shuraidah?style=flat&logo=github)
-![GitHub stars](https://img.shields.io/github/stars/Nada-Al-Shuraidah?style=flat)
+![GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=Nada-Al-Shuraidah&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Nada-Al-Shuraidah&layout=compact&theme=dark)
 
 ---
 
