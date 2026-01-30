@@ -9,12 +9,12 @@ I am committed to continuous learning, hands-on experimentation, and bridging my
 
 
 
-#### 🔭 Current Focus
+### 🔭 Current Focus
 - Data analysis  
 - Machine learning concepts  
 - Python for data and AI applications  
 
-#### 🌱 Currently Learning
+### 🌱 Currently Learning
 - Data Structures & Algorithms  
 - NumPy & Pandas  
 - Machine Learning basics  
@@ -34,11 +34,11 @@ I am committed to continuous learning, hands-on experimentation, and bridging my
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
 
-#### 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Nada-Al-Shuraidah&layout=compact&theme=dark)
 
-#### 💬 Ask me about anything, I am happy to help
+### 💬 Ask me about anything, I am happy to help
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nada-al-shuridah)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/NadaZ1717)
 
