@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Nada
 
-<!--
-**Nada-Al-Shuraidah/Nada-Al-Shuraidah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer | Data & AI Focus**
 
-Here are some ideas to get you started:
+I’m a software developer transitioning toward data and artificial intelligence.  
+My background includes building full-stack applications, but my current focus is on data-driven systems, machine learning fundamentals, and AI-oriented problem solving.  
+I’m actively developing my skills through hands-on learning and practical experimentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 Current Focus
+- Data analysis fundamentals  
+- Machine learning concepts  
+- Python for data and AI applications  
+
+## 🌱 Currently Learning
+- Data Structures & Algorithms  
+- NumPy & Pandas  
+- Machine Learning basics  
+
+---
+
+## 🛠 Tech Stack
+- **Core:** Python, Git, Linux  
+- **Data:** Pandas, NumPy *(learning)*  
+- **AI / ML:** Machine Learning fundamentals  
+- **Web (Previous experience):** HTML, CSS, JavaScript  
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark)
+
+---
+
+## 📫 Contact
+- LinkedIn: [nada-al-shuridah](https://www.linkedin.com/in/nada-al-shuridah)
+- Telegram: [@NadaZ1717](https://t.me/NadaZ1717)
