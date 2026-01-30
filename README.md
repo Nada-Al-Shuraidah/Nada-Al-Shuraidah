@@ -9,7 +9,7 @@ I’m actively developing my skills through hands-on learning and practical expe
 ---
 
 ## 🔭 Current Focus
-- Data analysis fundamentals  
+- Data analysis  
 - Machine learning concepts  
 - Python for data and AI applications  
 
@@ -29,8 +29,8 @@ I’m actively developing my skills through hands-on learning and practical expe
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nada-Al-Shuraidah&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nada-Al-Shuraidah&layout=compact&theme=dark)
 
 ---
 
