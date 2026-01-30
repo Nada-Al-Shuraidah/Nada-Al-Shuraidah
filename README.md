@@ -49,8 +49,9 @@
 ---
 
 ## 📫 Contact
-- LinkedIn: [Nada Al Shuridah](https://www.linkedin.com/in/nada-al-shuridah)
-- Telegram: [@NadaZ1717](https://t.me/NadaZ1717)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nada-al-shuridah)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/NadaZ1717)
+
 
 ---
 ![snake animation](https://raw.githubusercontent.com/Nada-Al-Shuraidah/Nada-Al-Shuraidah/output/github-contribution-grid-snake-dark.svg)
