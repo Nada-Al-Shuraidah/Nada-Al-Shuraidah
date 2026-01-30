@@ -1,16 +1,19 @@
 # 👋 Hi, I'm Nada
 
 **Software Developer | Data & AI Focus**
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
-    I’m a software developer transitioning toward data and artificial intelligence.<br>
-    My background includes building full-stack applications, but my current focus is on data-driven systems, machine learning fundamentals, and AI-oriented problem solving.<br>
-    I’m actively developing my skills through hands-on learning and practical experimentation.
-  </div>
-  <div>
-    <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" alt="GIF" width="300"/>
-  </div>
-</div>
+<table style="border: none; border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="width: 60%; text-align: left; vertical-align: top;">
+      I’m a software developer transitioning toward data and artificial intelligence.<br>
+      My background includes building full-stack applications, but my current focus is on data-driven systems, machine learning fundamentals, and AI-oriented problem solving.<br>
+      I’m actively developing my skills through hands-on learning and practical experimentation.
+    </td>
+    <td style="width: 40%; text-align: right; vertical-align: top;">
+      <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" alt="GIF" width="300"/>
+    </td>
+  </tr>
+</table>
+
 
 
 
