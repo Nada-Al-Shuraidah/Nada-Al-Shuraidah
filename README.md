@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nada
 
 **Software Developer | Data & AI Focus**
-<table>
+<table border="0">
   <tr>
     <td align="left">
       <p>I’m a software developer transitioning toward data and artificial intelligence.  
