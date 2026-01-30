@@ -1,5 +1,12 @@
 # 👋 Hi, I'm Nada
 <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif"/>
+<p align="right">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif"
+    alt="GIF"
+    width="300"
+  />
+</p>
 
 **Software Developer | Data & AI Focus**
 
