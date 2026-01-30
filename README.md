@@ -18,21 +18,7 @@ I am a software developer with a solid background in full-stack application deve
 - NumPy & Pandas  
 - Machine Learning basics  
 
-
-
 ## 🛠 Tech Stack
-- **Core:** Python, Git, Linux  
-- **Data:** Pandas, NumPy *(learning)*  
-- **AI / ML:** Machine Learning fundamentals  
-- **Web (Previous experience):** HTML, CSS, JavaScript  
-
-
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Nada-Al-Shuraidah&layout=compact&theme=dark)
-
-### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)<br>
@@ -45,6 +31,11 @@ I am a software developer with a solid background in full-stack application deve
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Nada-Al-Shuraidah&layout=compact&theme=dark)
 
 ## 📫 Contact
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nada-al-shuridah)
