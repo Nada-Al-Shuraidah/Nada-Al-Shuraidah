@@ -43,3 +43,7 @@ I’m actively developing my skills through hands-on learning and practical expe
 ## 📫 Contact
 - LinkedIn: [Nada Al Shuridah](https://www.linkedin.com/in/nada-al-shuridah)
 - Telegram: [@NadaZ1717](https://t.me/NadaZ1717)
+
+---
+![snake animation](https://raw.githubusercontent.com/Nada-Al-Shuraidah/Nada-Al-Shuraidah/output/github-contribution-grid-snake-dark.svg)
+
