@@ -8,7 +8,7 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="200" height="200"/>
 </p>
 
----
+
 
 ## 🔭 Current Focus
 - Data analysis  
@@ -20,7 +20,7 @@
 - NumPy & Pandas  
 - Machine Learning basics  
 
----
+
 
 ## 🛠 Tech Stack
 - **Core:** Python, Git, Linux  
@@ -28,7 +28,7 @@
 - **AI / ML:** Machine Learning fundamentals  
 - **Web (Previous experience):** HTML, CSS, JavaScript  
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -40,13 +40,12 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
+
 
 ## 📫 Contact
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nada-al-shuridah)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/NadaZ1717)
 
 
----
 ![snake animation](https://raw.githubusercontent.com/Nada-Al-Shuraidah/Nada-Al-Shuraidah/output/github-contribution-grid-snake-dark.svg)
 
