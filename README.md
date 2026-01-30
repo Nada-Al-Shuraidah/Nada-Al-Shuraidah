@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Nada
 
+### Glad to see you here!
 **Software Developer | Data & AI Focus**<br>
 I am a software developer with a solid background in full-stack application development, now specializing in data-driven systems and AI. My current focus is on building practical machine learning solutions, leveraging data analytics, and applying AI techniques to real-world problems. I am committed to continuous learning, hands-on experimentation, and bridging my software expertise with advanced data and AI technologies.
 <p float="Right">
